@@ -1,0 +1,14 @@
+10 linii po kolei: 1 linia
+2 linia
+3 linia
+4 linia
+5 linia
+6 linia
+7 linia
+8 linia
+9 linia
+10 linia
+Andriy Adamovych
+Informatyka pierwsza grupa
+Systemy operacyjne
+Hello world
